@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<serie>
+
+
+    <titulo>LA CASA DE PAPEL</titulo>
+    <genero>Suspense</genero>
+    <personajes>
+
+        <1>Tokio</1>
+        <2>Berlín</2>
+        <3>Nairobi</3>
+
+    </personajes>
+    
+    <director>Álex Pina</director>
+
+    <descripcion>La Casa de Papel es una serie que muestra un histórico asalto
+     a la Fábrica Nacional de Moneda y Timbre, en Madrid, España, por parte de 
+     una banda de ladrones que planea obtener 2.400 millones de euros, 
+     y para lograrlo toma en el atraco a 67 rehenes.</descripcion>
+
+    <temporadas>5 temporadas</temporadas>
+    <episodios>41 episodios</episodios>
+
+
+
+
+
+</serie>
+
+</xml>
